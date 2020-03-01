@@ -7,4 +7,4 @@ python ps2_1.py
 python ps2_2.py
 
 
-This code is very time consuming, need at least a hour to finish the whole process.
+This code is very time consuming, need at least one hour to finish the whole process.
